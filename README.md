@@ -34,23 +34,8 @@ Build Tool: Create React App / Vite
 The project can be built using either Create React App or Vite, both providing modern JavaScript tooling, hot module replacement, and optimized production builds.
 
 3. Project Structure and Organization
-project-root/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/
-│   │   ├── dog-bowl.png
-│   │   ├── happy-dog.png
-│   │   ├── dogs-eating.png
-│   │   └── kibble.png
-│   ├── components/
-│   │   └── DogFoodLanding.jsx
-│   ├── App.js
-│   ├── index.css
-│   └── index.js
-├── package.json
-├── tailwind.config.js
-└── README.md
+<img width="418" height="397" alt="Screenshot 2025-11-27 at 1 24 43 AM" src="https://github.com/user-attachments/assets/e22e3172-289c-4c8f-ba62-b51587580b5e" />
+
 
 4. Component Breakdown and Functionality
 4.1 Hero Section
