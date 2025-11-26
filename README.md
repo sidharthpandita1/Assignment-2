@@ -34,7 +34,7 @@ Build Tool: Create React App / Vite
 The project can be built using either Create React App or Vite, both providing modern JavaScript tooling, hot module replacement, and optimized production builds.
 
 3. Project Structure and Organization
-<img width="418" height="397" alt="Screenshot 2025-11-27 at 1 24 43 AM" src="https://github.com/user-attachments/assets/e22e3172-289c-4c8f-ba62-b51587580b5e" />
+<img width="297" height="514" alt="Screenshot 2025-11-27 at 1 25 57 AM" src="https://github.com/user-attachments/assets/f30ddb77-f522-4de7-936e-ee0d8305f672" />
 
 
 4. Component Breakdown and Functionality
