@@ -1,4 +1,10 @@
 📝 Dog Food Landing Page - Comprehensive Project Documentation
+<img width="1470" height="801" alt="Screenshot 2025-11-27 at 1 27 20 AM" src="https://github.com/user-attachments/assets/0e3d3ea4-916e-4e4b-b33a-facf91babdf4" />
+<img width="1470" height="802" alt="Screenshot 2025-11-27 at 1 27 54 AM" src="https://github.com/user-attachments/assets/400c181e-0d6c-4763-9924-af0c4c745190" />
+![Uploading Screenshot 2025-11-27 at 1.28.25 AM.png…]()
+![Uploading Screenshot 2025-11-27 at 1.28.39 AM.png…]()
+
+
 Executive Summary
 This project is a modern, fully responsive landing page designed for a premium dog food product. Built using React.js and Tailwind CSS, it demonstrates advanced front-end development skills including component-based architecture, responsive design principles, and modern UI/UX best practices. The landing page serves as a marketing tool to showcase product benefits, build trust through social proof, and drive conversions through strategic call-to-action elements.
 
