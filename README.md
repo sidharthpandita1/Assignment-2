@@ -2,7 +2,7 @@
 <img width="1470" height="801" alt="Screenshot 2025-11-27 at 1 27 20 AM" src="https://github.com/user-attachments/assets/0e3d3ea4-916e-4e4b-b33a-facf91babdf4" />
 <img width="1470" height="802" alt="Screenshot 2025-11-27 at 1 27 54 AM" src="https://github.com/user-attachments/assets/400c181e-0d6c-4763-9924-af0c4c745190" />
 <img width="1469" height="796" alt="Screenshot 2025-11-27 at 1 29 39 AM" src="https://github.com/user-attachments/assets/7307ea7f-7c3e-4c0c-90f7-2a21f2c1af9f" />
-<img width="1469" height="801" alt="Screenshot 2025-11-27 at 1 30 18 AM" src="https://github.com/user-attachments/assets/60dede99-0aa8-4041-878f-85ee140a6740" />
+<img width="1470" height="170" alt="Screenshot 2025-11-27 at 1 33 07 AM" src="https://github.com/user-attachments/assets/765e38a5-89d3-4536-b05d-ca26cb06c468" />
 
 
 Executive Summary
